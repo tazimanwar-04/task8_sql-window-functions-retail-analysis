@@ -1,0 +1,11 @@
+Regional Customer Performance
+The ranking analysis shows that a small number of customers contribute a large share of total sales within each region. This indicates high customer concentration, where retaining top-ranked customers is critical for sustaining regional revenue.
+
+Product Category Leaders
+The top product analysis reveals that each category has a few consistently high-performing products. These top-ranked products should be prioritized for inventory planning, promotions, and marketing efforts, as they drive the majority of category-level revenue.
+
+Sales Growth Trend Over Time
+The month-on-month sales analysis highlights periods of both growth and decline. Certain months show strong positive growth, indicating seasonal demand, while declines suggest opportunities to improve promotions or pricing strategies during low-performing periods.
+
+Impact of Product Diversity
+Despite having many products, only a limited number appear in the top ranks across categories. This suggests that focusing on high-performing products may yield better returns than spreading resources evenly across the entire product portfolio.
